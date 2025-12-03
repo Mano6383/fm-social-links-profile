@@ -16,7 +16,7 @@ Users should be able to:
 ## 🔗 Links
 
 - Solution URL: (https://github.com/Mano6383/fm-social-links-profile)
-- Live Site URL: *Add your Netlify/Vercel link*
+- Live Site URL: (https://sweet-taffy-a9d744.netlify.app/)
 
 ## 🛠️ Built with
 
